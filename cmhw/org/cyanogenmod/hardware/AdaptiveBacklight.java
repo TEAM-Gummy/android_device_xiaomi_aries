@@ -67,7 +67,7 @@ public class AdaptiveBacklight {
      *
      */
     public static int getcurrentMode() {
-        return -1;
+        return 0;
     }
 
     /**
